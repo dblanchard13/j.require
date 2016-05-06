@@ -1,11 +1,14 @@
 {
   "name": "j.require",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": ">= 4.0.0"
+  }
   "author": "David Blanchard",
   "license": "ISC",
   "repository": "dblanchard13/j.require"

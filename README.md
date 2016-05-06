@@ -1,6 +1,6 @@
 # j.require
 
-A require statement that always begins from the root of your directory.<br>
+A require statement that always begins from the root of your directory.
 The root is defined as where your node_modules folder is.
 
 ****

@@ -7,14 +7,14 @@ The root is defined as where your node_modules folder is.
 ****
 
 YourApp/<br>
-  **ROOT**<br>
-  node_modules/<br>
-  utils/<br>
-    coolUtil.js<br>
-  server/<br>
-    server.js<br>
-  package.json<br>
-  README.md<br>
+--**ROOT**<br>
+--node_modules/<br>
+--utils/<br>
+----coolUtil.js<br>
+--server/<br>
+----server.js<br>
+--package.json<br>
+--README.md<br>
 
 ****
 

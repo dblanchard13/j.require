@@ -1,7 +1,7 @@
 {
   "name": "j.require",
-  "version": "1.0.2",
-  "description": "Require statement that begins at the root where the root is defined as the directory that contains your node_modules",
+  "version": "1.0.3",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

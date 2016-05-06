@@ -1,10 +1,18 @@
-j.require
-=========
+# j.require
 
 A require statement that always begins from the root of your directory.<br>
 The root is defined as where your node_modules folder is.
 
 ****
+## Installation
+
+```
+  npm install j.require
+```
+
+****
+
+## Example Directory
 
 YourApp/<br>
 --**ROOT**<br>
@@ -20,7 +28,7 @@ YourApp/<br>
 
 ****
 
-Example Usage:
+## Example Usage:
 
 
   ```
@@ -28,5 +36,4 @@ Example Usage:
 
     var j = require('j.require');
     var coolUtil = j.require('utils/coolUtil');
-
   ```

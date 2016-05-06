@@ -10,9 +10,11 @@ YourApp/<br>
 --**ROOT**<br>
 --node_modules/<br>
 --utils/<br>
+----**NOT ROOT**<br>
 ----coolUtil.js<br>
 --server/<br>
 ----server.js<br>
+--index.js<br>
 --package.json<br>
 --README.md<br>
 
